@@ -45,7 +45,7 @@ print("\n==================")
 for i in range (1 , 11 , 3):  # it will run 10 times
     print(i)    # it will print from 1 to 10 values with the skip of 2 values and then print the 3rd value in loop till end
 
-
+print("\n==================")
 # table using for-loop
 
 value=int(input("Enter the number which you want to generate the table :"))  # take input for the tbale number
